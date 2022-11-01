@@ -1,4 +1,4 @@
-# GrayHatsLab
+# GrayHats Lab
 
 To reproduce the experiment:
 
