@@ -1,0 +1,2 @@
+# This folder is automatically created when building the container.
+./elgg-setup/mysql_data
